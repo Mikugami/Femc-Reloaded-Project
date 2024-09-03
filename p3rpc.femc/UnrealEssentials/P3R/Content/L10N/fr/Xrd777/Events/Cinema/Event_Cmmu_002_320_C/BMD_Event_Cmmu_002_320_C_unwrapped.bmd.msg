@@ -1,6 +1,6 @@
 [msg MSG_000_0_0 [Yukari Takeba]]
 [uf 0 5 65278][uf 2 1][uf 4 5 2 11 65535 65535 0 0][uf 3 1 3 0 65535 1132 0 0]Quel concert ! Ça fait du bien de chanter à tue-tête, pas vrai ?[n][uf 1 1][e]
-[uf 0 5 65278][uf 2 1][uf 4 5 2 1 65535 65535 0 0][uf 4 23 0 2 1 25 25]En plus, tu as fait un choix musical plutôt original, [uf 4 1].[n][uf 1 1][e]
+[uf 0 5 65278][uf 2 1][uf 4 5 2 1 65535 65535 0 0][uf 4 23 0 2 1 25 25]En plus, tu as fait un choix musical plutôt original, [uf 4 2].[n][uf 1 1][e]
 
 [msg MSG_001_0_0 [Yukari Takeba]]
 [uf 0 5 65278][uf 2 1][uf 4 5 2 1 65535 65535 0 0][uf 3 1 3 0 65535 1067 0 0]Puisqu'on en parle... T'écoutes quoi en général ?[n][uf 1 1][e]

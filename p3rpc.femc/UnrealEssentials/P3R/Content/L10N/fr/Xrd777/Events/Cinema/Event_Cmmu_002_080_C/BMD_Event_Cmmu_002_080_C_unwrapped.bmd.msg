@@ -4,7 +4,7 @@
 [uf 0 5 65278][uf 2 1][uf 4 5 2 1 65535 65535 0 0][uf 3 1 1 0 0 3 0 0]Elles sont toutes tellement belles, pas vrai ? Et j'ai l'embarras du choix, en plus de ça ![n][uf 1 1][e]
 
 [msg MSG_001_0_0 [Yukari Takeba]]
-[uf 0 5 65278][uf 2 1][uf 4 5 2 1 65535 65535 0 0][uf 3 1 1 0 0 4 0 0]J'ai une idée ! Pourquoi tu ne viendrais pas m'aider à choisir, [uf 4 1] ?[n][uf 1 1][e]
+[uf 0 5 65278][uf 2 1][uf 4 5 2 1 65535 65535 0 0][uf 3 1 1 0 0 4 0 0]J'ai une idée ! Pourquoi tu ne viendrais pas m'aider à choisir, [uf 4 2] ?[n][uf 1 1][e]
 
 [sel SEL_002_0_0 top]
 [uf 0 5 65278][uf 2 1]OK.[e]
@@ -92,7 +92,7 @@
 [msg MSG_019_0_0 [Yukari Takeba]]
 [uf 0 5 65278][uf 2 1][uf 4 5 2 3 65535 65535 0 0][uf 3 1 1 0 0 43 0 0][uf 4 23 0 2 3 25 25]C'est pour ça qu'il lui a fallu quelqu'un à ses côtés...[n][uf 1 1][e]
 [uf 0 5 65278][uf 2 1][uf 4 5 2 3 65535 65535 0 0][uf 3 1 1 0 0 44 0 0]Ça doit être vraiment difficile de perdre un être cher et de se retrouver à vivre seul d'un coup.[n][uf 1 1][e]
-[uf 0 5 65278][uf 2 1][uf 4 5 2 3 65535 65535 0 0][uf 3 1 1 0 0 45 0 0]Je ne sais pas comment l'expliquer, mais c'est en te côtoyant, [uf 4 1], que je m'en suis rendu compte.[n][uf 1 1][e]
+[uf 0 5 65278][uf 2 1][uf 4 5 2 3 65535 65535 0 0][uf 3 1 1 0 0 45 0 0]Je ne sais pas comment l'expliquer, mais c'est en te côtoyant, [uf 4 2], que je m'en suis rendu compte.[n][uf 1 1][e]
 
 [msg MSG_019_3_0 [Yukari Takeba]]
 [uf 0 5 65278][uf 2 1][uf 4 5 2 0 65535 65535 0 0][uf 3 1 1 0 0 46 0 0][uf 4 23 0 2 0 25 25]Je pense qu'être amoureux implique d'offrir une partie de soi à l'être aimé...[n][uf 1 1][e]

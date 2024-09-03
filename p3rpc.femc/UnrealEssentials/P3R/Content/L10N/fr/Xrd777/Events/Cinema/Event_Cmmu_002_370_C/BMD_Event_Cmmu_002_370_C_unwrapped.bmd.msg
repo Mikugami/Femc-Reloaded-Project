@@ -13,7 +13,7 @@
 [uf 0 5 65278][uf 2 1][uf 4 5 2 0 65535 65535 0 0]"Elle sera le reflet de votre humeur."[n]Hmm...[n][uf 1 1][e]
 
 [msg MSG_003_0_0 [Yukari Takeba]]
-[uf 0 5 65278][uf 2 1][uf 4 5 2 1 65535 65535 0 0][uf 3 1 3 0 65535 1001 0 0]C'est quoi ta couleur préférée,[uf 4 1] ?[n][uf 1 1][e]
+[uf 0 5 65278][uf 2 1][uf 4 5 2 1 65535 65535 0 0][uf 3 1 3 0 65535 1001 0 0]C'est quoi ta couleur préférée,[uf 4 2] ?[n][uf 1 1][e]
 
 [sel SEL_004_0_0 top]
 [uf 0 5 65278][uf 2 1]Le bleu.[e]

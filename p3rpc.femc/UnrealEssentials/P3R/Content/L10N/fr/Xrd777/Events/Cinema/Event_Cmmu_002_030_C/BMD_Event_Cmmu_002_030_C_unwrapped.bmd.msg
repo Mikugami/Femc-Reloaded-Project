@@ -69,7 +69,7 @@
 [uf 0 5 65278][uf 2 1][uf 4 5 2 1 65535 65535 0 0][uf 3 1 1 0 0 32 0 0]Bref, je n'ai plus envie d'en parler...[n][uf 1 1][e]
 
 [msg MSG_016_0_0 [Yukari Takeba]]
-[uf 0 5 65278][uf 2 1][uf 4 5 2 0 65535 65535 0 0][uf 3 1 1 0 0 33 0 0]Euh, [uf 4 1] ? Tu veux bien que ça reste entre nous ? Tu es la seule à qui j'en ai parlé.[n][uf 1 1][e]
+[uf 0 5 65278][uf 2 1][uf 4 5 2 0 65535 65535 0 0][uf 3 1 1 0 0 33 0 0]Euh, [uf 4 2] ? Tu veux bien que ça reste entre nous ? Tu es la seule à qui j'en ai parlé.[n][uf 1 1][e]
 
 [msg MND_017_0_0]
 [uf 0 5 65278][uf 2 1]Yukari s'est confiée à moi sur ses relations conflictuelles avec sa mère.[n][uf 1 1][e]

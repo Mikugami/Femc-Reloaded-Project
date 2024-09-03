@@ -25,7 +25,7 @@
 
 [msg MSG_007_0_0 [Yukari Takeba]]
 [uf 0 5 65278][uf 2 1][uf 4 5 2 0 65535 65535 0 0][uf 3 1 1 0 0 9 0 0]Hum... J'ai quelque chose à te demander.[n][uf 1 1][e]
-[uf 0 5 65278][uf 2 1][uf 4 5 2 0 65535 65535 0 0][uf 3 1 1 0 0 10 0 0][uf 4 1]...[n][uf 1 1][e]
+[uf 0 5 65278][uf 2 1][uf 4 5 2 0 65535 65535 0 0][uf 3 1 1 0 0 10 0 0][uf 4 2]...[n][uf 1 1][e]
 [uf 0 5 65278][uf 2 1][uf 4 5 2 3 65535 65535 0 0][uf 3 1 0 0 0 11 0 0][uf 4 23 0 2 3 25 25]...[n][uf 1 1][e]
 
 [msg MSG_008_0_0 [Yukari Takeba]]
@@ -70,7 +70,7 @@
 
 [msg MSG_018_0_0 [Yukari Takeba]]
 [uf 0 5 65278][uf 2 1][uf 4 5 2 64 65535 65535 0 0][uf 3 1 0 0 0 26 0 0]...[n][uf 1 1][e]
-[uf 0 5 65278][uf 2 1][uf 4 5 2 64 65535 65535 0 0][uf 3 1 1 0 0 27 0 0]T'es difficile à cerner, [uf 4 1]...[n][uf 1 1][e]
+[uf 0 5 65278][uf 2 1][uf 4 5 2 64 65535 65535 0 0][uf 3 1 1 0 0 27 0 0]T'es difficile à cerner, [uf 4 2]...[n][uf 1 1][e]
 
 [msg MSG_019_0_0 [Yukari Takeba]]
 [uf 0 5 65278][uf 2 1][uf 4 5 2 3 65535 65535 0 0][uf 3 1 1 0 0 28 0 0]Tu es toujours si gentille avec tout le monde.[n][uf 1 1][e]
@@ -81,7 +81,7 @@
 [uf 0 5 65278][uf 2 1][uf 4 5 2 3 65535 65535 0 0][uf 3 1 1 0 0 31 0 0]Ça m'a fait peur... J'étais en train de devenir quelqu'un de jaloux, de mesquin. Je me suis sentie mal.[n][uf 1 1][e]
 
 [msg MSG_020_3_0 [Yukari Takeba]]
-[uf 0 5 65278][uf 2 1][uf 4 5 2 0 65535 65535 0 0][uf 3 1 1 0 0 32 0 0]Alors, euh... [uf 4 1]...[n][uf 1 1][e]
+[uf 0 5 65278][uf 2 1][uf 4 5 2 0 65535 65535 0 0][uf 3 1 1 0 0 32 0 0]Alors, euh... [uf 4 2]...[n][uf 1 1][e]
 [uf 0 5 65278][uf 2 1][uf 4 5 2 0 65535 65535 0 0][uf 3 1 1 0 0 33 0 0]Je voudrais que tu me regardes...[n][uf 1 1][e]
 [uf 0 5 65278][uf 2 1][uf 4 5 2 3 65535 65535 0 0][uf 3 1 1 0 0 34 0 0][uf 4 23 0 2 3 25 25]Et que tu ne regardes que moi...[n][uf 1 1][e]
 [uf 0 5 65278][uf 2 1][uf 4 5 2 3 65535 65535 0 0][uf 3 1 0 0 0 35 0 0]...[n][uf 1 1][e]
@@ -118,7 +118,7 @@
 
 [msg MSG_028_0_0 [Yukari Takeba]]
 [uf 0 5 65278][uf 2 1][uf 4 5 2 3 65535 65535 0 0][uf 3 1 0 0 0 47 0 0]...[n][uf 1 1][e]
-[uf 0 5 65278][uf 2 1][uf 4 5 2 0 65535 65535 0 0][uf 3 1 1 0 0 48 0 0][uf 4 23 0 2 0 25 25]Tu sais, [uf 4 1], on n'entend peut-être pas la même chose par "bien aimer"...[n][uf 1 1][e]
+[uf 0 5 65278][uf 2 1][uf 4 5 2 0 65535 65535 0 0][uf 3 1 1 0 0 48 0 0][uf 4 23 0 2 0 25 25]Tu sais, [uf 4 2], on n'entend peut-être pas la même chose par "bien aimer"...[n][uf 1 1][e]
 
 [msg MSG_029_0_0 [Yukari Takeba]]
 [uf 0 5 65278][uf 2 1][uf 4 5 2 0 65535 65535 0 0][uf 3 1 1 0 0 49 0 0]Mais nous sommes liées d'une autre manière.[n][uf 1 1][e]

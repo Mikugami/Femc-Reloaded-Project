@@ -31,7 +31,7 @@
 
 [msg MSG_007_0_0 [Yukari Takeba]]
 [uf 0 5 65278][uf 2 1][uf 4 5 2 1 159 65535 0 0][uf 3 1 1 0 0 12 0 0]Pfiou, j'ai plus faim ! On n'en a fait qu'une bouchée, dis donc ![n][uf 1 1][e]
-[uf 0 5 65278][uf 2 1][uf 4 5 2 1 159 65535 0 0][uf 3 1 1 0 0 13 0 0]Alors, [uf 4 1] ? Qu'est-ce que t'en as pensé ?[n][uf 1 1][e]
+[uf 0 5 65278][uf 2 1][uf 4 5 2 1 159 65535 0 0][uf 3 1 1 0 0 13 0 0]Alors, [uf 4 2] ? Qu'est-ce que t'en as pensé ?[n][uf 1 1][e]
 
 [sel SEL_008_0_0 top]
 [uf 0 5 65278][uf 2 1]Je me suis régalée ![e]

@@ -19,7 +19,7 @@
 [uf 0 5 65278][uf 2 1][uf 4 5 2 6 65535 65535 0 0][uf 3 1 1 0 0 12 0 0][uf 4 23 0 1 6 25 25]Mais je pense... que j'ai envie de la voir.[n][uf 1 1][e]
 
 [msg MSG_004_0_0 [Yukari Takeba]]
-[uf 0 5 65278][uf 2 1][uf 4 5 2 0 65535 65535 0 0][uf 3 1 1 0 0 13 0 0]C'est pour ça que je me suis dit que ce serait bien si tu m'accompagnais, [uf 4 1].[n][uf 1 1][e]
+[uf 0 5 65278][uf 2 1][uf 4 5 2 0 65535 65535 0 0][uf 3 1 1 0 0 13 0 0]C'est pour ça que je me suis dit que ce serait bien si tu m'accompagnais, [uf 4 2].[n][uf 1 1][e]
 [uf 0 5 65278][uf 2 1][uf 4 5 2 0 65535 65535 0 0][uf 3 1 1 0 0 14 0 0]Rien ne t'y oblige...[n][uf 1 1][e]
 [uf 0 5 65278][uf 2 1][uf 4 5 2 0 65535 65535 0 0][uf 3 1 1 0 0 15 0 0]C'est juste que je serais plus à l'aise si tu étais à mes côtés.[n][uf 1 1][e]
 

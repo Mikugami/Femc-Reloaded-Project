@@ -1,5 +1,5 @@
 [msg MSG_000_0_0 [Yukari Takeba]]
-[uf 0 5 65278][uf 2 1][uf 4 5 2 1 65535 65535 0 0][uf 3 1 1 0 0 1 0 0]Mmh, c'est délicieux ! Heureusement que j'ai choisi le même plat que toi, [uf 4 1].[n][uf 1 1][e]
+[uf 0 5 65278][uf 2 1][uf 4 5 2 1 65535 65535 0 0][uf 3 1 1 0 0 1 0 0]Mmh, c'est délicieux ! Heureusement que j'ai choisi le même plat que toi, [uf 4 2].[n][uf 1 1][e]
 
 [msg MSG_001_0_0 [Yukari Takeba]]
 [uf 0 5 65278][uf 2 1][uf 4 5 2 0 65535 65535 0 0][uf 3 1 1 0 0 2 0 0]Oh, je me disais : manger du poisson, ça me rappelle l'océan. Pas toi ?[n][uf 1 1][e]
@@ -46,7 +46,7 @@
 
 [msg MSG_011_0_0 [Yukari Takeba]]
 [uf 0 5 65278][uf 2 1][uf 4 5 2 1 65535 65535 0 0][uf 3 1 1 0 0 21 0 0]Héhé, ça remonte à loin, la dernière fois qu'on a parlé de partir en vacances ensemble. Rien que d'y penser, je kiffe ![n][uf 1 1][e]
-[uf 0 5 65278][uf 2 1][uf 4 5 2 0 65535 65535 0 0][uf 3 1 1 0 0 22 0 0][uf 4 23 0 2 0 25 25]Je ne sais pas trop comment le tourner, mais... quand je suis avec toi, [uf 4 1]...[n][uf 1 1][e]
+[uf 0 5 65278][uf 2 1][uf 4 5 2 0 65535 65535 0 0][uf 3 1 1 0 0 22 0 0][uf 4 23 0 2 0 25 25]Je ne sais pas trop comment le tourner, mais... quand je suis avec toi, [uf 4 2]...[n][uf 1 1][e]
 [uf 0 5 65278][uf 2 1][uf 4 5 2 0 65535 65535 0 0][uf 3 1 1 0 0 23 0 0]Je ne me sens plus aussi seule.[n][uf 1 1][e]
 
 [msg MSG_012_0_0 [Yukari Takeba]]
@@ -56,7 +56,7 @@
 
 [msg MSG_012_3_0 [Yukari Takeba]]
 [uf 0 5 65278][uf 2 1][uf 4 5 2 0 65535 65535 0 0][uf 3 1 1 0 0 27 0 0]Mais ça a changé, dernièrement...[n][uf 1 1][e]
-[uf 0 5 65278][uf 2 1][uf 4 5 2 1 65535 65535 0 0][uf 3 1 1 0 0 28 0 0][uf 4 23 0 2 1 25 25]Et je crois que c'est grâce à toi, [uf 4 1].[n][uf 1 1][e]
+[uf 0 5 65278][uf 2 1][uf 4 5 2 1 65535 65535 0 0][uf 3 1 1 0 0 28 0 0][uf 4 23 0 2 1 25 25]Et je crois que c'est grâce à toi, [uf 4 2].[n][uf 1 1][e]
 
 [msg MND_013_0_0]
 [uf 0 5 65278][uf 2 1]Yukari me fait confiance.[n][uf 1 1][e]

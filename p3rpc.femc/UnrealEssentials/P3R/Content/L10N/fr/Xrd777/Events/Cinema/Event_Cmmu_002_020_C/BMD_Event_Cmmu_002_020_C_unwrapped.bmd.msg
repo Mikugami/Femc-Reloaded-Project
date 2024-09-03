@@ -51,7 +51,7 @@
 [uf 0 5 65278][uf 2 1][uf 4 5 2 1 65535 65535 0 0][uf 3 1 1 0 0 18 0 0][uf 4 23 0 2 1 25 25]Haha. T'es aussi tordue que Junpei.[n][uf 1 1][e]
 
 [msg MSG_013_0_0 [Yukari Takeba]]
-[uf 0 5 65278][uf 2 1][uf 4 5 2 0 65535 65535 0 0][uf 3 1 1 0 0 19 0 0]Honnêtement, n'importe quelles fleurs feraient l'affaire si elles venaient de toi, [uf 4 1].[n][uf 1 1][e]
+[uf 0 5 65278][uf 2 1][uf 4 5 2 0 65535 65535 0 0][uf 3 1 1 0 0 19 0 0]Honnêtement, n'importe quelles fleurs feraient l'affaire si elles venaient de toi, [uf 4 2].[n][uf 1 1][e]
 [uf 0 5 65278][uf 2 1][uf 4 5 2 11 65535 65535 0 0][uf 3 1 1 0 0 20 0 0][uf 4 23 0 2 11 25 25]Je rigole ! Haha.[n][uf 1 1][e]
 
 [msg MND_014_0_0]

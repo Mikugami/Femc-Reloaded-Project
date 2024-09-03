@@ -84,7 +84,7 @@
 
 [msg MSG_018_0_0 [Yukari Takeba]]
 [uf 0 5 65278][uf 2 1][uf 4 5 2 1 65535 65535 0 0][uf 3 1 1 0 0 33 0 0]Merci de m'avoir écoutée.[n][uf 1 1][e]
-[uf 0 5 65278][uf 2 1][uf 4 5 2 1 65535 65535 0 0][uf 3 1 1 0 0 34 0 0]J'ignore pourquoi, mais je sens que je peux me confier à toi, [uf 4 1].[n][uf 1 1][e]
+[uf 0 5 65278][uf 2 1][uf 4 5 2 1 65535 65535 0 0][uf 3 1 1 0 0 34 0 0]J'ignore pourquoi, mais je sens que je peux me confier à toi, [uf 4 2].[n][uf 1 1][e]
 [uf 0 5 65278][uf 2 1][uf 4 5 2 1 65535 65535 0 0][uf 3 1 1 0 0 35 0 0]Rentrons. Je continuerai mon shopping un autre jour.[n][uf 1 1][e]
 
 [msg MND_019_0_0]

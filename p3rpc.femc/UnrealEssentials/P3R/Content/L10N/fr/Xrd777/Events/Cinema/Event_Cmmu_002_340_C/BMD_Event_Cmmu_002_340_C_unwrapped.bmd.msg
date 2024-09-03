@@ -51,7 +51,7 @@
 
 [msg MSG_010_3_0 [Yukari Takeba]]
 [uf 0 5 65278][uf 2 1][uf 4 5 2 1 65535 65535 0 0][uf 5 13 7 30 2]Même si j'apprécie ton offre, hahaha ![n][uf 1 1][e]
-[uf 0 5 65278][uf 2 1][uf 4 5 2 1 65535 65535 0 0]Ça fait partie des choses que j'aime chez toi, [uf 4 1].[n][uf 1 1][e]
+[uf 0 5 65278][uf 2 1][uf 4 5 2 1 65535 65535 0 0]Ça fait partie des choses que j'aime chez toi, [uf 4 2].[n][uf 1 1][e]
 
 [msg MND_011_0_0]
 [uf 0 5 65278][uf 2 1]Yukari semble contente.[n][uf 1 1][e]

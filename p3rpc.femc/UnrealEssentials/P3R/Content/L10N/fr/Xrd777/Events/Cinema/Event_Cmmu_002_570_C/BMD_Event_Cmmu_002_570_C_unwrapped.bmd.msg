@@ -41,7 +41,7 @@
 [uf 0 5 65278][uf 2 1][uf 4 5 2 0 156 65535 0 0][uf 3 1 1 0 0 18 0 0][uf 4 23 0 2 0 25 25]Je suppose que ça doit être l'heure de manger, hein ? Ça doit être pour ça que j'ai si faim.[n][uf 1 1][e]
 
 [msg MSG_007_0_0 [Yukari Takeba]]
-[uf 0 5 65278][uf 2 1][uf 4 5 2 1 156 65535 0 0][uf 3 1 1 0 0 19 0 0]Hé, [uf 4 1], qu'est-ce que tu dirais d'aller manger des takoyaki ?[n][uf 1 1][e]
+[uf 0 5 65278][uf 2 1][uf 4 5 2 1 156 65535 0 0][uf 3 1 1 0 0 19 0 0]Hé, [uf 4 2], qu'est-ce que tu dirais d'aller manger des takoyaki ?[n][uf 1 1][e]
 [uf 0 5 65278][uf 2 1][uf 4 5 2 1 156 65535 0 0][uf 3 1 1 0 0 20 0 0]Je pense pas pouvoir tout manger toute seule, donc on pourrait peut-être partager ?[n][uf 1 1][e]
 
 [msg MSG_008_0_0 [Yukari Takeba]]
@@ -60,7 +60,7 @@
 [uf 0 5 65278][uf 2 1][uf 4 5 2 1 156 65535 0 0][uf 3 1 1 0 0 27 0 0]Merci ![n][uf 1 1][e]
 
 [msg MSG_012_0_0 [Yukari Takeba]]
-[uf 0 5 65278][uf 2 1][uf 4 5 2 1 156 65535 0 0][uf 3 1 1 0 0 28 0 0]T'as entendu ça, [uf 4 1] ? Elle a dit que tu étais ma petite amie.[n][uf 1 1][e]
+[uf 0 5 65278][uf 2 1][uf 4 5 2 1 156 65535 0 0][uf 3 1 1 0 0 28 0 0]T'as entendu ça, [uf 4 2] ? Elle a dit que tu étais ma petite amie.[n][uf 1 1][e]
 [uf 0 5 65278][uf 2 1][uf 4 5 2 11 156 65535 1 0][uf 3 1 1 0 0 29 0 0][uf 4 23 0 2 11 25 25]Héhé...[n][uf 1 1][e]
 
 [msg MSG_013_0_0 [Yukari Takeba]]
@@ -122,7 +122,7 @@
 [uf 0 5 65278][uf 2 1]（アイテム名）を受け取った。[n][uf 1 1][e]
 
 [msg MSG_024_0_0 [Yukari Takeba]]
-[uf 0 5 65278][uf 2 1][uf 4 5 2 1 156 65535 0 0][uf 3 1 1 0 0 53 0 0]Bien joué, [uf 4 1] ![n][uf 1 1][e]
+[uf 0 5 65278][uf 2 1][uf 4 5 2 1 156 65535 0 0][uf 3 1 1 0 0 53 0 0]Bien joué, [uf 4 2] ![n][uf 1 1][e]
 [uf 0 5 65278][uf 2 1][uf 4 5 2 0 156 65535 0 0][uf 3 1 1 0 0 54 0 0][uf 4 23 0 2 0 25 25]J'ai toujours cru que ces bidules étaient truqués...[n][uf 1 1][e]
 [uf 0 5 65278][uf 2 1][uf 4 5 2 0 156 65535 0 0][uf 3 1 1 0 0 55 0 0]Honnêtement, je pense que c'est la première fois que je vois quelqu'un gagner quelque chose comme ça.[n][uf 1 1][e]
 
@@ -132,7 +132,7 @@
 [uf 0 5 65278][uf 2 1][uf 4 5 2 1 156 65535 0 0][uf 3 1 1 0 0 58 0 0][uf 4 23 0 2 1 25 25]Enfin bon, je suis contente qu'on ait pu profiter des festivités.[n][uf 1 1][e]
 
 [msg MSG_026_0_0 [Yukari Takeba]]
-[uf 0 5 65278][uf 2 1][uf 4 5 2 1 156 65535 0 0][uf 3 1 1 0 0 59 0 0]Merci pour aujourd'hui ! Je me suis bien amusée, [uf 4 1].[n][uf 1 1][e]
+[uf 0 5 65278][uf 2 1][uf 4 5 2 1 156 65535 0 0][uf 3 1 1 0 0 59 0 0]Merci pour aujourd'hui ! Je me suis bien amusée, [uf 4 2].[n][uf 1 1][e]
 [uf 0 5 65278][uf 2 1][uf 4 5 2 1 156 65535 0 0][uf 3 1 1 0 0 60 0 0]Ce serait cool de refaire un truc ensemble à l'occasion.[n][uf 1 1][e]
 [uf 0 5 65278][uf 2 1][uf 4 5 2 11 156 65535 0 0][uf 3 1 1 0 0 61 0 0][uf 4 23 0 2 11 25 25]Héhé...[n][uf 1 1][e]
 

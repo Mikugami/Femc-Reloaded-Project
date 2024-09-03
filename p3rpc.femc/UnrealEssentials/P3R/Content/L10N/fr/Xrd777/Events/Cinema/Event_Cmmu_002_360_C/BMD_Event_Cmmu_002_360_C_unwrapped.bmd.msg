@@ -16,7 +16,7 @@
 
 [msg MSG_004_0_0 [Yukari Takeba]]
 [uf 0 5 65278][uf 2 1][uf 4 5 2 1 65535 65535 0 0][uf 3 1 3 0 65535 1132 0 0][uf 5 13 7 30 2]J-Je vois. Comme ce qu'on fait aujourd'hui, donc ?[n][uf 1 1][e]
-[uf 0 5 65278][uf 2 1][uf 4 5 2 1 65535 65535 0 0]Bien sûr, je me doute bien que tout le monde aime traîner avec toi, [uf 4 1].[n][uf 1 1][e]
+[uf 0 5 65278][uf 2 1][uf 4 5 2 1 65535 65535 0 0]Bien sûr, je me doute bien que tout le monde aime traîner avec toi, [uf 4 2].[n][uf 1 1][e]
 
 [msg MND_005_0_0]
 [uf 0 5 65278][uf 2 1]Yukari hoche la tête.[n][uf 1 1][e]

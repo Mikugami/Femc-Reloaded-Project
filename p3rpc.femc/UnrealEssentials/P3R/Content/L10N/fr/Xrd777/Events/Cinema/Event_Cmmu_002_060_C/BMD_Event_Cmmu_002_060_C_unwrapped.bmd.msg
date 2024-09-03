@@ -14,7 +14,7 @@
 [msg MSG_002_0_0 [Yukari Takeba]]
 [uf 0 5 65278][uf 2 1][uf 4 5 2 0 65535 65535 0 0][uf 3 1 1 0 0 8 0 0]Tu sais, je n'ai pas réussi à le dire sur le coup, mais...[n][uf 1 1][e]
 [uf 0 5 65278][uf 2 1][uf 4 5 2 0 65535 65535 0 0][uf 3 1 1 0 0 9 0 0]Je suis contente que tu sois venue.[n][uf 1 1][e]
-[uf 0 5 65278][uf 2 1][uf 4 5 2 0 65535 65535 0 0][uf 3 1 1 0 0 10 0 0]Peut-être parce que c'est toi, [uf 4 1].[n][uf 1 1][e]
+[uf 0 5 65278][uf 2 1][uf 4 5 2 0 65535 65535 0 0][uf 3 1 1 0 0 10 0 0]Peut-être parce que c'est toi, [uf 4 2].[n][uf 1 1][e]
 [uf 0 5 65278][uf 2 1][uf 4 5 2 0 65535 65535 0 0][uf 3 1 1 0 0 11 0 0]Alors je tiens à te remercier comme il faut.[n][uf 1 1][e]
 
 [msg MSG_003_0_0 [Yukari Takeba]]
@@ -40,7 +40,7 @@
 [uf 0 5 65278][uf 2 1]Nous sommes encore plus proches l'une de l'autre...[n][uf 1 1][e]
 
 [msg MSG_009_0_0 [Yukari Takeba]]
-[uf 0 5 65278][uf 2 1][uf 4 5 2 1 65535 65535 0 0][uf 3 1 1 0 0 15 0 0][uf 5 13 7 5 2]Haha, pourquoi tu me remercies, au juste, [uf 4 1] ?[n][uf 1 1][e]
+[uf 0 5 65278][uf 2 1][uf 4 5 2 1 65535 65535 0 0][uf 3 1 1 0 0 15 0 0][uf 5 13 7 5 2]Haha, pourquoi tu me remercies, au juste, [uf 4 2] ?[n][uf 1 1][e]
 
 [msg MND_010_0_0]
 [uf 0 5 65278][uf 2 1]Yukari a l'air de s'être soulagée d'un poids.[n][uf 1 1][e]
@@ -53,7 +53,7 @@
 [uf 0 5 65278][uf 2 1][uf 4 5 2 1 65535 65535 0 0][uf 3 1 1 0 0 17 0 0]Allez, on rentre.[n][uf 1 1][e]
 [uf 0 5 65278][uf 2 1][uf 4 5 2 0 65535 65535 0 0][uf 3 1 1 0 0 18 0 0][uf 4 23 0 2 0 25 25]C'est rarement fréquenté, sur le toit. C'est l'endroit parfait pour avoir une conversation sérieuse.[n][uf 1 1][e]
 [uf 0 5 65278][uf 2 1][uf 4 5 2 0 65535 65535 0 0][uf 3 1 1 0 0 19 0 0]Il y a parfois des couples qui viennent... qui viennent, quoi. Si on nous voit, les rumeurs risquent d'aller bon train.[n][uf 1 1][e]
-[uf 0 5 65278][uf 2 1][uf 4 5 2 0 65535 65535 0 0][uf 3 1 1 0 0 20 0 0]Ça t'embêterait, [uf 4 1] ? Que les gens pensent qu'on sort ensemble ?[n][uf 1 1][e]
+[uf 0 5 65278][uf 2 1][uf 4 5 2 0 65535 65535 0 0][uf 3 1 1 0 0 20 0 0]Ça t'embêterait, [uf 4 2] ? Que les gens pensent qu'on sort ensemble ?[n][uf 1 1][e]
 
 [sel SEL_013_0_0 top]
 [uf 0 5 65278][uf 2 1]Pas du tout.[uf 2 9 1 1 344][e]

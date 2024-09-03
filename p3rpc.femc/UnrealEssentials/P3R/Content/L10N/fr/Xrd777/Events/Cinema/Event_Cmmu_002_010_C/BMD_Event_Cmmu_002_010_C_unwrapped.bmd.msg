@@ -39,7 +39,7 @@
 
 [msg MSG_021_0_0 [Yukari Takeba]]
 [uf 0 5 65278][uf 2 1][uf 4 5 2 4 65535 65535 0 0][uf 3 1 1 0 0 16 0 0]Oh, désolée. Je ne voulais pas nécessairement nous mettre dans le même panier.[n][uf 1 1][e]
-[uf 0 5 65278][uf 2 1][uf 4 5 2 0 65535 65535 0 0][uf 3 1 1 0 0 17 0 0][uf 4 23 0 2 0 25 25]Mais... j'ai l'impression que tu me comprends, et que tu veilles sur moi, [uf 4 1].[n][uf 1 1][e]
+[uf 0 5 65278][uf 2 1][uf 4 5 2 0 65535 65535 0 0][uf 3 1 1 0 0 17 0 0][uf 4 23 0 2 0 25 25]Mais... j'ai l'impression que tu me comprends, et que tu veilles sur moi, [uf 4 2].[n][uf 1 1][e]
 
 [msg MSG_022_0_0 [Yukari Takeba]]
 [uf 0 5 65278][uf 2 1][uf 4 5 2 1 65535 65535 0 0][uf 3 1 1 0 0 18 0 0]C'est ce que je pense, en tout cas.[n][uf 1 1][e]
